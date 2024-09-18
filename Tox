@@ -1,1 +1,15 @@
+Tox Messenger is a secure, peer-to-peer messaging platform designed to prioritize privacy and decentralization. Here are its pros and cons:
 
+Pros:
+Privacy-Focused: End-to-end encryption ensures secure communication.
+Decentralized: No central servers, reducing the risk of data breaches.
+Open Source: Transparent code that can be audited by anyone.
+Cross-Platform: Available on various devices and operating systems.
+Free: No subscription or fees.
+Cons:
+Heavy Bandwidth Usage: Peer-to-peer nature can consume more data.
+Limited User Base: Smaller community compared to mainstream apps.
+Development Lag: Some features (like group calls) are still maturing.
+Tox is a great choice for users prioritizing privacy but may lack some polish compared to mainstream alternatives.
+
+rumours say there was 0day a few years ago was baught by a 3 letter agency so its not that secure
