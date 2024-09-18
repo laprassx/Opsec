@@ -1,1 +1,21 @@
+https://keybase.io/
 
+Keybase is a key directory that maps social media identities to encryption keys 
+(including, but not limited to PGP keys) in a publicly auditable manner. Additionally
+it offers an end-to-end encrypted chat and cloud storage system, called Keybase Chat and the Keybase Filesystem respectively.
+
+Overall: Keybase is a good platform for those who are concerned about security, more notably for business people.
+Pros: Keybase is an all in one place for team collaboration similar to Slack, cloud storage with up to 250GB of free space, a git version
+control system and a cryptocurrency wallet (stellar lumens) all with the power of 256-bit encryption technology. This means anything that
+Keybase holds is nearly impossible to decrypt (even if the servers are hacked). You can also prove your social media identity using Keybase
+(not account verification). The chat feature is best if you are concerned about the security of your messages especially if you want to manage a
+team. You can also create sub-teams and channels like in slack. The cloud storage falls under three category, public files - which is publicly 
+visible, private files - which we can use to store files privately and finally team files - visible to a group of people who are members of a team
+created by us. The storage is not expandable as of now, but the company is planning to introduce purchasable storage soon. Unlike other git repository 
+hosting services, Keybase' git is fully encrypted which makes it more secure. Keybase also comes with an integrated Stellar lumens cryptocurrency wallet 
+through which we can also send other popular cryptocurrencies. They also have a really good documentation. The way they demonstrate their features is 
+really cool. Another cool feature is that we can also host simple website in the public folder. The website could be accessed under yourusername.keybase.pub domain name.
+
+Cons: It could be a really strange application for those who are not aware of cryptography and encryption technologies. Keybase seems a bit intimidating at first. 
+It takes some time to get used to the features and functionalities. You may find it difficult to find your contacts on Keybase due to the same reasons. Also sometimes
+the application seems to slow down a bit when encrypting big files.
