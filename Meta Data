@@ -1,1 +1,46 @@
+Metadata within images refers to the information embedded in image files that describes various
+attributes of the image itself. This metadata can include a range of details, such as technical information, 
+descriptive data, and more. Image metadata is typically stored in specific formats, such as EXIF (Exchangeable
+Image File Format), IPTC (International Press Telecommunications Council), or XMP (Extensible Metadata Platform).
+
+Types of Image Metadata:
+EXIF Metadata (Exchangeable Image File Format):
+
+Camera settings: Information about the camera model, lens type, focal length, shutter speed, aperture, ISO, etc.
+Timestamp: The date and time the image was taken.
+Geolocation: GPS coordinates where the image was captured (if enabled on the camera or smartphone).
+File format: JPEG, PNG, TIFF, etc.
+IPTC Metadata (International Press Telecommunications Council):
+
+Author/Creator: Name of the photographer or organization responsible for the image.
+Title or Caption: A brief description or title of the image.
+Keywords: Tags that describe the image’s content for easier searchability.
+Copyright: Ownership information and usage rights.
+XMP Metadata (Extensible Metadata Platform):
+
+Custom Data: XMP allows for the addition of custom metadata fields, often used in professional image editing 
+software (like Adobe Photoshop) to store non-standardized information such as edits made to the image.
+Uses of Image Metadata:
+Organizing and Searching: Descriptive metadata like tags, titles, or keywords make it easier to categorize, sort,
+and find images in large collections.Copyright and Ownership: Metadata can store copyright and usage rights information, 
+helping to protect intellectual property and prevent unauthorized use.
+Image Optimization and Editing: EXIF metadata provides useful insights for photographers and editors, like camera settings,
+helping to adjust editing techniques or optimize future shots.Tracking and Geolocation: Geotagging allows users to map where photos 
+were taken, useful in travel photography or for law enforcement to track locations. Digital Forensics: Image metadata can provide crucial
+evidence about the time, location, and device used to take a photo, making it  useful in investigations.
+Preservation: Metadata helps in long-term preservation and archiving, ensuring that image details and context are maintained
+for future reference. How to View Image Metadata: On a computer: Right-click an image file, select "Properties" 
+(Windows) or "Get Info" (Mac), and navigate to the "Details" or "Info" tab. Using Software: Programs like Adobe Photoshop, 
+Lightroom, or online tools can show more advanced metadata, including custom fields.
+By utilizing metadata, images can be better understood, organized, and protected.
+
+Resources to remove it
+
+
+https://pics.io/metadata-remover 
+
+https://github.com/Anish-M-code/Metadata-Remover
+
+https://github.com/szTheory/exifcleaner
+
 
