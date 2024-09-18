@@ -1,1 +1,21 @@
-
+PGP, or Pretty Good Privacy, is useful for a variety of reasons, including: 
+ 
+Secure communication
+PGP is a software program that allows users to encrypt and decrypt messages and files, making them confidential. This is especially important for sharing sensitive information, such as via email. 
+ 
+Verifying senders
+PGP can verify the sender of a message to ensure that it wasn't intercepted by a third party. 
+ 
+Digital signatures
+PGP can create digital signatures, which are like electronic fingerprints for documents. 
+ 
+Protecting data
+PGP can protect sensitive data from unauthorized access. 
+ 
+Easy to use
+PGP encryption software is easy to learn and use, even with little to no training. 
+ 
+PGP was one of the first freely available public-key cryptography software programs, and has played a significant role in advancing secure communication.
+https://gpg4win.org/get-gpg4win.html
+https://www.encryptionconsulting.com/how-to-generate-pgp-key-pair/
+use this to verify incase of anything occurin
