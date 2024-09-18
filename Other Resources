@@ -7,9 +7,238 @@ The Defense Information Systems Agency's OPSEC website: https://www.disa.mil/cyb
 The OPSEC Professionals Society: https://www.opsecsociety.org/
 
 OPSEC360: https://opsec360.com/
-
+io
 Wireshark: https://www.wireshark.org/
 
 The OPSEC Group: https://www.opsecgroup.com/
 
 OPSEC Toolkit: https://opsectoolkit.com/
+
+
+
+
+Other guide Braught to us by https://ulven.zone thank you to ulven for this check him out!
+
+The Internet is a dangerous place. Especially so if you are LGBTQ, furry, have unconventional sexual tendencies (CNC, BDSM, FinDom, etc) or are a member of a religious or racial minority group.
+The Internet was not designed with safety or security in mind. In its ARPANET beginnings, many systems didn't even have passwords because only privileged users were supposed to access this. As such, 
+privacy and security features are often little more than layers added on top of aging protocols, like HTTPS is just SSL applied on top of HTTPS.
+As such, the Internet has, for years, consisted of open access, anonymity, and censorship resistance at the cost of privacy and security.
+Nowadays, threat actors, law enforcement and national intelligence agencies, defence contractors, private investigators, hate groups, and analytics corporations (and more recently, AI bots and AI 
+corporations) scan, monitor, and scrape the Internet, collecting gargantuan amounts of information, to aggregate using Big Data and analysis techniques for all kinds of purposes, including 
+anti-terrorism operations, doxxing, trolling, and harassment, or market analysis.
+
+Staying safe: Generic tips
+Regardless of the platform, there are a number of measures you can take to make it more difficult for anyone to identify you online.
+
+Threat modelling
+Who do you want to defend yourself against? The NSA? GCHQ? Good luck with that. If you are notorious enough, and do crimes or become an interesting target for a government-funded agency, 
+no amount of VPNs, Tor proxies, and PGP keys will protect you. If you become a National Security threat, you are highly unlikely to escape the grasp of government agencies.
+If, on the other hand, your plans are more modest and involve protecting yourself and your family, your finances, posessions, and other things against nosy neighbours, ex-partners andcurrent and 
+future employers, then it is a much more doable task. Who are you? Do you belong to a minority? Are you an immigrant, or LGBT? An activist, or a journalist? Do you have a lot of money? 
+These are important questions. Who would be interested in your personal information specifically? Advertisers? Cybercriminals? Scammers? You must understand what their techniques are. Receiving 
+a Nigerian Prince phishing e-mail is totally different to a creepy, jealous ex-partner looking at your Twitter feed with a secondary account. Use this knowledge to try to deploy the 
+appropriate countermeasures. This post will not help safeguard your accounts and digital presence against government-sponsored threat actors, because I consider it a fruitless endeavour: If you
+are notable enough, you will not be able to escape the government. And if you are not notable enough, then they won't bother tracking you down, because it is a colossal waste of resources. 
+But it will give you tips on how threat actors operate and how to be safer online.
+
+Ego is the enemy
+The most important tip of all is to understand your ego, and yourself. One common pitfall I see frequently, especially among teenagers and less tech-savvy individuals is they enjoy attention
+and notoriety. This is nothing to be ashamed of or ridiculed for, as it is a fundamental part of what makes us human. We crave connection and socialising, and social people develop healthier
+brains. But you must also balance this craving for notoriety and socialisation with the dangers of inadvertently exposing yourself on the Internet. And I think a big part of this is about one's 
+ego. Social networks play with our instincts by giving us small dopamine rewards in the form of view counters, likes, retweets, and other forms of attention. Once you understand how perversely
+manipulative these incentives are, you can begin to rethink your approach to social media. My recommendation is to disable as many non-direct interaction notifications as possible. For example, 
+whenever I can, I disable reaction notifications: those small emojis that can be applied to other people's messages. They do not convey much information other than approval / disapproval. I also
+disable likes and retweets in platforms like Twitter. Again, these notifications serve no purpose other than telling your brain "look, you did something other people liked" which in turn tricks 
+you and makes you feel good for a short while. Same goes for messages in group chats like WhatsApp or Telegram: You do not need to be notified every time anyone sends a message to a group. You 
+do need to get notified if other people address you specifically, via mentions or something similar. Generally, I recommend disabling every single interaction that is not clearly addressed 
+towards you. Usually this includes e-mails as well, because it is common to be on several marketing and  newsletter e-mail lists, and it is rare to receive e-mail messages addressed to you 
+specifically, however, in my case, I aggressively unsubscribe and block any source of unsolicited messages, so all my e-mails are addressed to me, or are notifications like bills and other 
+things I really need to be aware of, so my e-mail notifications are always on.
+
+Phone numbers
+Phone numbers are often one of the least protected pieces of information online. First of all, they're not directly traceable back to a specific person, however, in many 
+countries, there are "White pages" services that allow you to link a person's real name with a phone number. You might even be listed there without your knowledge! It's important 
+to opt out. Each country has a different procedure, and often times it is your phone service provider who signs you up. Simply search "White Pages <your country>" and figure out how 
+to opt-out. Also talk to your phone service provider / ISP / carrier, and ask you to de-list your information from any public sources. EU GDPR and California's CCPA laws, among others,
+might have specific opt-out mechanisms. Make sure to exercise your legal rights!
+
+Do not give out your phone number
+Be wary of any website or service asking for your phone number. These websites will often try to convince you to give them your phone number
+with the pretext of "increased account security", or "to facilitate recovery", or even "to send you updates regarding your order". Please understand
+that they will often sell this information to advertisers and intelligence agencies. Even when they promise not to sell their data, they might get hacked
+one day. You might not even know they got hacked. Do you often receive robocalls? Maybe your phone number got leaked or sold.
+Always use Google Authenticator, Security Keys, and other Two-Factor authentication mechanisms, instead of SMS.
+In most extreme cases, websites like Gmail will require you to attach a phone number to your account in order to register. Otherwise, you cannot create
+an account, or your account will be deactivated under suspicion of fraud or automated spam. In this case, it is important to consider if you really need 
+access to that service. Sometimes, using a VPN service and switching countries to those with better privacy laws like Switzerland or Netherlands might help. 
+Otherwise, the use of a VPN might paint an even bigger target on you, as VPN IP addresses are well-known to certain groups and agencies.
+
+SIM swapping
+Cybercriminals and threat actors can trick your carrier into giving them your SIM by doing some research on you, then posing as you to them via customer service lines. 
+Customer service employees are often overworked or underpaid, and therefore they are highly vulnerable to being manipulated, as they won't have much motivation to implement strict
+safety measures. Another technique is by using an insider: you pay your insider, and they generate a new SIM for you, transferring your phone number to them. From this point onwards,
+they can spoof your calls, request Two-Factor authentication SMS tokens, or even call your bank or relatives, tricking them into sending money, from a very familiar phone number using
+voice changer software.
+
+SIM privacy laws
+Countries increasingly require SIM-card registration. The rationale behind this is often along the lines of counter-terrorism and avoiding cyber-stalking and harassment.
+I'm not going to argue one way or another, but the fact is if you ever gave out your personal information in order to obtain a SIM card, that automatically means there 
+exists a database somewhere, where your name and phone number are related. It may be better or worse protected, but if that information is ever exposed, you could be in 
+danger of identity theft, fraud, and more. Be aware of this whenever any website or app asks you for your phone number. Especially those messaging apps like WhatsApp or 
+iMessage that share your phone number with all your contacts.
+
+Public posts
+Due to the basics of Information Theory, it is not possible to guarantee deletion of any piece of data in computer systems. In other words: that "delete" button next to your 
+tweets might not do what you think it does.
+Same happens with your computer files. In old hard disk drives, data is not deleted even when you use the "delete" command in your operating system. Data is stored in regions,
+and those regions are marked as deleted. This is an important distinction, because, for performance reasons, this data is not actually removed, but the space held by the data 
+becomes available for later use. A similar situation happens with solid-state disks. In this case, it is also for longevity reasons, because every time you write data to a 
+solid-state disk, you reduce its life expectancy. These devices have limited writes, and the controller that takes care of sorting this information is responsible for marking 
+cells deleted, without actually removing the data.
+There are many other cases. For example, when you send data over two computer systems, it is often the case this data will, at some point, reach a router, a switch, or another 
+intermediary device. This device will then store the data, and then send it again towards its destination. At this point, there is no guarantee that this device hasn't stored a 
+copy of the data exchanged. So even if the data is deleted and both the receiving as well as the sending systems are destroyed beyond recovery, there can be perfect copies of 
+this data stored somewhere. This is the basic principle for executing MITM attacks.
+Thus, you should assume any data you have ever posted in a public setting, like a group, a newspaper, a blog, or unencrypted mediums like e-mails to be susceptible to being 
+stored permanently without your consent or knowledge. Do not simply assume the delete button will make your tweet no longer accessible. Free tools like archive.org can help you 
+see previous versions of websites, allowing you to recover data that is now deleted or has been modified.
+
+Going on vacation
+When going on vacation, it is typical for people to be very eager and share pictures of their trip shortly after they're taken. Sometimes, even livestreaming their vacation.
+This poses all kinds of risks, not only because people can guess where you are, but also because people can guess where you aren't. For example,if you work at a well-known company,
+knowing that one of the employees are on vacation is highly valuable information in case they want to conduct some kind of social engineering attack impersonating you. Or, even worse,
+if they know where you live, they can just enter your home and rob you, knowing your home is completely unprotected. Instead of announcing you go on vacation in a public post, and post
+pictures and videos of your daily occurrences, wait until you return. Once you are home, it is perfectly safe to post
+pictures (depending on your threat model), as you are no longer in the location where the picture was taken.
+
+Pictures and media posts
+You should avoid posting pictures of your face online. Once a picture is posted, it may stay there forever, like it or not. Although this certainly depends on your threat model. For example,
+if you are a well-known person in your field, it might not be very useful to avoid posting pictures of your face online, as there will likely be pictures of you, sometimes taken without explicit 
+consent. However, in content that is even remotely controversial or disagreeable, like politics or sexual themes, it is advised to implement a strict separation between normal / professional life 
+and your political opinions or sexual activities.
+
+Public profiles and "bios"
+Seek to minimise the amount of information you give out publicly. You can also try giving out false information, such as, for example, setting your date of birth to a
+different date, or setting your city to another nearby city, or even a different country. Any bit of information you give out can be correlated with your posts and your social
+media presence to find out more about you.
+
+Profile privacy
+Some platforms like Twitter offer privacy methods in which your account becomes readable only to users who receive your explicit approval. Then, anonymous users and non-approved 
+users can no longer read your posts, but your approved followers can.
+
+Unique usernames used on multiple platforms
+Some people choose to have identifiable usernames online. Unless you have a big reason to have a sort of "personal branding", for example, if you are looking for work and you want to be
+visible to potential employers, it is probably smarter to generate usernames out of random letters and numbers and never use personal details like year of birth, age, or your real name.
+If you do choose to have a "personal branding", then you must be very careful what you say, or what you post. There's a lot of information associated to anything you publish online. For 
+example: pictures can sometimes include geolocation data, or people can find out where you are because of geographical features displayed in the picture. The time and date you post can also
+help locate where you are located in the world, and perhaps even what you do for a living.
+Even if you delete your posts, there are tools dedicated to archiving social media profiles including all their posted content.
+
+Online shopping and package delivery
+Except in very specific cases, giving out your real name to companies like Amazon or DHL isn't actually necessary. They will never check your ID. While sending parcels to
+your home might pose a threat, unless you use sketchy websites, and as long as you never give out your legal name to e-commerce websites, it should be fine.
+
+Usernames and e-mail addresses
+Many platforms have a "login" username separate from the name displayed on your profile. Sometimes your login username is just your e-mail address or phone number.
+If possible, your username should be never the same in two websites. If your name is "John Doe" and your e-banking username is "JohnDoe", then that makes it more likely 
+for your banking information to be breached. How about having "dxf15sx4" as username instead? Hard to remember? Yes. You should be using a password manager anyway. In cases
+like Twitter or Discord where your username is also your social username by which people can reach you, this might not be feasible.
+Regarding e-mail, there are some private e-mail service providers. Some people use the "plus-address" trick, but this is not very useful because if your information is ever leaked, 
+anyone knows the first part of your e-mail address, before the + sign, is your real address.
+Instead, try completely randomly generated e-mail addresses like abc@yourprovider.com or xyz@yourprovider.com. Do not write your name in the username part of the address. Do not use your
+initials. Do not make it identifiable.
+Some private e-mail providers include:
+
+https://www.fastmail.com/
+https://simplelogin.io/
+https://33mail.com/
+https://relay.firefox.com/
+https://addy.io/
+DuckDuckGo Email Protection
+iCloud Private Relay
+
+There are of course many more services. Do note that an increasing number of websites will not allow you to sign in using addresses provided by the 
+above services. Some GitHub projects like this one allow you to download a list containing disposable e-mail service providers, as well as the private 
+e-mail providers listed above. A simple workaround is to get a domain name. You can buy a .com domain for less than 10 dollars a year, and then configure 
+your private e-mail provider to use said domain name.
+
+Distrust of people online
+It is not wise to trust strangers on the Internet. It is relatively common for things like catfishing, romance scams, or sugar daddy scams to happen.
+Scamming techniques evolve continuously and it is hard to keep track of them. But a smart rule to stick to is, if someone on the Internet requests you pay 
+them before delivering any kind of product or service, especially if this individual has contacted you first out of the blue, then it is likely a scam.
+But it's not only scams you have to watch out for. Unfortunately, some people are not scammers but simply bad people.
+The cost of betraying your neighbour can be quite high, as your neighbour knows where you live, and possibly the kind of car you drive, or who you are dating.
+However, on the Internet, things are much more complicated. Even if you talk to someone who you think is your friend, there's no guarantee they won't tell other 
+people your secrets. Or worse yet, your friends could be impersonated, or get their accounts hacked.
+
+Privacy VPN services
+
+IP Addresses
+Depending on how you connect to the Internet, there's a chance that your IP address is static. This means your IP address never changes,
+and website administrators can see it. This way, it is easy to track you even across different websites, as they often contain tracking mechanisms from third-party companies like Google or Facebook.
+One of the most common ways of dynamic IP assignment happens when your router boots and performs the appropriate handshakes with your ISP. If you are unsure
+
+
+Platform-specific tips
+Please note, below I list some unofficial tools. These unofficial tools gaining access to your account could do some serious damage, like deleting groups you own or
+mass-spamming your contacts. Please exercise caution when running any third-party code.
+Emergency Data Requests are legitimate tools for law enforcement agencies to request data on a particular user. For example: private messages, or even just a collection 
+of public posts. There are many providers of EDR tools, and the usual way for threat actors to make use of EDR is to register with stolen government emails, as you usually
+get instantly approved to these EDR tools.
+With these, they can then request all the information in a particular account, even data the company promised not to share with advertisers, because companies still have to
+respect court orders, and (legitimate) EDRs come with court orders.
+Do not trust a company to keep your information private. Instead, do your best so that information is never collected in the first place.
+
+Telegram
+There are well-known tools like tgScan, and TelegramDB that use various methods to collect membership details in Telegram groups.
+These tools are paid, but don't be surprised if you show up in the search results including all the groups you belong to, or at least some of them.
+It is not easy to defend against this because they automate this data collection through bots joining many different groups. However, there's a few 
+things you can do right now that will increase your privacy.
+
+
+Enable two-step verification
+In the security section, you can add an additional password to your account.
+This prevents someone else from gaining access to your phone number through SIM swapping or similar and logging into your account, as after entering the SMS code, they will be asked for a password.
+
+Remove your username
+Hide your personal details
+In settings -> Privacy and Security, you can tune who sees what kind of information about yourself.
+I recommend setting the following to "Nobody":
+
+Phone number
+Last seen
+Date of Birth
+Forwarded messages
+Groups and channels
+
+A note regarding forwarded messages: People can still forward your messages to other people. The difference is these messages will only carry the name you have set in the app 
+(not your username), and they cannot tap the name to go to your profile as is possible if this setting is configured to "Everyone".
+And, as you can see in the picture (+3), you can add specific people who are allowed to perform certain actions. If your settings are "Everybody", you can still add exceptions 
+that will not be allowed to, for example see your profile picture or bio.
+
+Enable disappearing messages
+In settings -> Privacy and Security, you can enable disappearing messages.
+
+This will make any new private chat (even regular, non-secret chats) have an expiration timer set by you, after which the messages will be deleted for both parties.
+The counterparty can always change or disable this expiration timer, but you will be notified if they do.
+
+Mass-deletion of group messages
+For this, there are several tools.
+I use Nekogram on Android. You can go to each group, and delete all messages, or only messages older than a day or a week.
+There are other options, for example, scripts like TgEraser, or wipemychat.
+Of course, you should always exercise caution when giving third-party applications access to your Telegram account. They could delete your private messages or even delete groups and channels you own.
+
+Google
+Google has an Advanced Protection Program designed to enforce the maximum levels of security and prevent unsafe activities from taking place accidentally. 
+This program is especially designed for people who are under attack from government-sponsored threat actors. Note that signing up to this program will limit certain actions, for example:
+
+You can no longer sign into Gmail using passwords through IMAP / SMTP
+Two-Factor authentication is enforced and you can no longer disable it
+If you sign in with your Google account in an Android phone, you might be prevented from installing certain applications, especially outside the Play Store
+
+Note that the Advanced Protection Program does not change your privacy settings, and Google collects vast amounts of information like location or search history that is
+in your best interests to disable.
+
+Many options are located in your Google Account settings.
+Disable, pause, and delete everything you can. If you use Android and other Google products like YouTube, 
+it's worth going over each service and product individually and reviewing the settings from there as well to make sure you didn't miss any setting
