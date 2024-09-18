@@ -1,1 +1,26 @@
 
+Timing attacks in cybersecurity exploit the time it takes for a system to process certain operations. By measuring the time difference between actions
+(like encryption or authentication steps), attackers can infer sensitive information such as cryptographic keys or passwords.
+
+How Timing Attacks Work:
+
+Observation: Attackers measure the time a system takes to respond to specific inputs.
+
+Exploitation: Small timing differences in responses can leak information about the system's internal operations.
+
+Prevention Techniques:
+
+Constant-Time Algorithms: Use algorithms that run in uniform time, regardless of input.
+Random Delays: Introduce random processing delays to obfuscate timing measurements.
+Blinding Techniques: Encrypt or randomize sensitive computations to obscure patterns.
+   
+Timing attacks are a subtle but significant threat, especially for systems handling cryptographic processes.
+
+>> tor isnt fully secure 
+
+what is a timing attack?
+
+(In cryptography, a timing attack is a side-channel attack in which the attacker attempts to compromise a cryptosystem by analyzing the time taken to execute cryptographic algorithms.)
+basically dont overlap what youre doing in simple terms eg dont say im going on tor on a insecure platform and then go on it and do crime lol..  
+
+https://ibb.co/4Md5qg6 <---- timing attack for refrence
